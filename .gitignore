@@ -144,3 +144,6 @@ tests/*
 .idea/*
 
 tiktok_uploader\tiktok-signature\command.txt
+
+VideosDirPath/video_*
+legends/legend_*
